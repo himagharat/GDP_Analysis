@@ -2,7 +2,6 @@
 
 
 This project aims to explore if there is some significant effect of financial aid given to some countries in their Sustainability Indexes, such as Carbon dioxide average 
-
 emissions, Employment Rate and Gross Domestic Product(GDP).
 
 Data: Countries that received Foreign Aid Assistance from 2011 to 2016.
