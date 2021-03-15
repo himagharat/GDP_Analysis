@@ -16,5 +16,8 @@ Is there a relationship between Assistance provided and Employment increase?
 
 Is there a relationship between Assistance provided and GDP increase?
 
+## Technologies Used
+* Python
+* Tableau
 
 ![diagram](https://user-images.githubusercontent.com/70601356/111056961-b5aa8200-8451-11eb-8ea9-09f541576cc3.jpg)
